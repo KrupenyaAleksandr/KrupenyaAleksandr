@@ -22,6 +22,10 @@
 
 💫 Ищу стажировку которую можно совмещать с учёбой. Хочу развиваться в направлении backend-разработчик/software engineer.
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrupenyaAleksandr&theme=calm">
+</div>
+
 <!--
 **KrupenyaAleksandr/KrupenyaAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
