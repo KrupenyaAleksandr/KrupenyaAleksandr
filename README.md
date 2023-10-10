@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-💫 Ищу стажировку. Хочу развиваться в направлении backend-разработчиком/software engineer.
+💫 Ищу стажировку. Хочу развиваться в направлении backend-разработчик/software engineer.
 
 <!--
 **KrupenyaAleksandr/KrupenyaAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
