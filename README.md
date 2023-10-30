@@ -22,6 +22,8 @@
 
 💫 Ищу стажировку которую можно совмещать с учёбой. Хочу развиваться в направлении backend-разработчик/software engineer.
 
+tg: @sashachlyapik
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrupenyaAleksandr&theme=calm">
 </div>
